@@ -1,0 +1,12 @@
+div{
+    height: 100vw;
+    width: 40px;
+    background: red;
+}
+@media (min-width: 400px) {
+    div{
+        height: 100vw;
+        width: 40px;
+        background: pink;
+    }
+}

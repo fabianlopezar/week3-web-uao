@@ -1,0 +1,30 @@
+div{
+    background: red;
+    
+}
+.txt p{
+    background: yellow;
+}
+
+@media(min-width: 500px) {
+    div{
+        background: orange;
+        
+    }
+    .txt p{
+        background: pink;
+
+    
+}
+
+@media(min-width: 1000px) {
+    div{
+        background: rgb(53, 53, 104);
+        
+    }
+    .txt p{
+        background: rgb(187, 98, 187);
+
+    
+}
+

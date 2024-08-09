@@ -1,0 +1,22 @@
+p::before{
+    content: "" ;
+}
+
+p::after{
+    content: "";
+}
+
+::placeholder{
+    color: brown;
+}
+
+p:hover{
+    color: aquamarine;
+}
+div p:nth-child(2){
+    color: peru;
+}
+
+div p:nth-child(2){
+    color: plum;
+}

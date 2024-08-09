@@ -1,0 +1,30 @@
+div{
+    position: absolute;
+}
+.blue{
+    width: 400px;
+    height: 300;
+    background: blue;
+    z-index: 1;
+}
+.red{
+    width: 400px;
+    height: 300;
+    background: red;
+    z-index: 3;
+
+}
+
+.orange{
+    width: 400px;
+    height: 300;
+    background: orange;
+    z-index: 4;
+}
+
+.black{
+    width: 400px;
+    height: 300;
+    background: black;
+    z-index: 2;
+}
